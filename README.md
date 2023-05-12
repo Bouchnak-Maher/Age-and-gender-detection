@@ -1,4 +1,3 @@
-@@ -0,0 +1,39 @@
 # Age and Gender Detection
 
 This is a machine learning project that uses computer vision techniques to detect the age and gender of a person in an image.
