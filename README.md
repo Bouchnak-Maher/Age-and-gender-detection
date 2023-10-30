@@ -35,11 +35,11 @@ The model achieves an accuracy of over 90% on the validation set for both age an
 
 | Age 02   | Age 38   |
 |---------|---------|
-| ![Age 02]<img src="https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/0b58d06e-2f32-40a5-bf7d-542061a245e1" width="200" height="300"> | ![Age 38](https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/3c41d9f5-058b-419c-ab46-f37826528bca) |
+| <img src="https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/0b58d06e-2f32-40a5-bf7d-542061a245e1" width="200" height="300"> | <img src="https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/3c41d9f5-058b-419c-ab46-f37826528bca"  width="200" height="300"> |
 
 | Gender Female | Gender Male |
 |---------------|-------------|
-| ![Female](https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/c07a3dd3-b0fc-4e07-ac82-cea8eb277b71) | ![Male](https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/299b432d-2c05-46d0-a5e6-86ec841235d5) |
+| <img src="https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/c07a3dd3-b0fc-4e07-ac82-cea8eb277b71"  width="200" height="300"> | <img src="https://github.com/Bouchnak-Maher/age-and-gender-detection/assets/94197705/299b432d-2c05-46d0-a5e6-86ec841235d5"  width="200" height="300"> |
 
 
 ## Usage
